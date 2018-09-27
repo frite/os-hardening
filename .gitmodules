@@ -1,0 +1,3 @@
+[submodule "ssh-hardening"]
+	path = ssh-hardening
+	url = git@github.com:dev-sec/ansible-ssh-hardening.git
